@@ -24,3 +24,7 @@ Herramientas de Procesamiento para IA
 
 \- Práctica 3: Proyecto en Markdown
 
+
+
+## Prácticas
+- [Práctica 3: README del proyecto](practica-3/README.md)
