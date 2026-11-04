@@ -22,9 +22,9 @@ Soy estudiante de Ingeniería en Inteligencia Artificial con interés en el apre
 
 
 
-\- \[Práctica 3: Proyecto en Markdown](practica-3/README.md)
+- [Práctica 3: Proyecto en Markdown](practica-3/README.md)
 
-\- \[Práctica 4: Comandos de terminal y Git](notas/comandos.md)
+
 
 
 
