@@ -12,9 +12,7 @@ flowchart TD
 
 ### Captura de la Model Card del modelo
 
-pollo.png
 
-**Fuente:** https://huggingface.co/openai/whisper-small
 
 
 
