@@ -36,8 +36,7 @@ flowchart TD
 
 
 
-()
-
+![Imagen del proyecto](pollo.png)
 
 
 \*\*Fuente:\*\* https://huggingface.co/openai/whisper-small
