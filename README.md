@@ -6,7 +6,7 @@
 
 
 
-Herramientas de Procesamiento para Inteligencia Artificial · Parcial II
+Herramientas de Procesamiento para Inteligencia Artificial · Parcial III
 
 
 
